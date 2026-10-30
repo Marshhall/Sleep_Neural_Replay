@@ -21,9 +21,6 @@
   <li>Comparison of pre-task and post-task replay</li>
 </ul>
 
-<h2>Tools</h2>
-<p>Python, NumPy, SciPy, pandas, Matplotlib, and Jupyter.</p>
-
 <h2>Reference</h2>
 <p>
   Peyrache et al. (2009).
